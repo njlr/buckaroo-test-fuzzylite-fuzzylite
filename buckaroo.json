@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-fuzzylite-fuzzylite",
+  "dependencies": {
+    "google/gtest": "1.8.0",
+    "fuzzylite/fuzzylite": "6.0.0"
+  }
+}
